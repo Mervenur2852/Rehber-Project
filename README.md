@@ -1,48 +1,20 @@
-# Json-Server
+# ⚡ 📒  Rehber Project
+This project is a comprehensive work that has strengthened my technical skills and experience in developing a directory application where personal information is stored and managed. 📒 By managing data without a backend using JSON Server and db.json, I provided a dynamic and seamless user experience through React component structures. ⚛️🚀
 
-- Bir web projesi temelde iki kısımdan oluşur.
+# 🚀 Features
+🖥️ Backend Simulation with JSON Server <br/>• ✨ Add, Delete, and Update Contacts <br/>• 🔎 Fast Search Feature <br/>• ⚡ Data Management with Axios <br/>• 🏗️ Dynamic Cards with React <br/>• 🔄 Real-time Data Updates <br/>• 📲 Mobile-Friendly Design
 
-1. Frontend
-2. Backend
+# 🛠️ Kullanılan Teknolojiler
 
--Proje geliştirilirken backend'in bize sağladığı verileri alıp arayüzde kullanırız.Fakat elimizde hazır bir api olmadığı durumlarda api'ın oluşturulmasını beklemek yerine `json-server `adında bir paket indiririr ve localimizde çalışan bir sahte backend elde ederiz.Bu backend tüm http metotlarını(get,post,put,patch,delete) destekler.
+• 🚀 React – For component and state management<br/>
+• 🔗 Axios – For handling API requests<br/>
+• 🗂️ JSON Server – For backend simulation<br/>
+• 🎨 SCSS – For a sleek and responsive design
 
-# Json-Server kullanarak sahte bir api nasıl oluşturulur
 
-1. Json server paketini indir.
+# 📸 Screenshot <br/>
+![ViteReact-GoogleChrome2025-02-2101-28-29-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/f0c239e2-3069-452b-a6f1-775f46503d8d)
 
-2. Proje dizininde package.json ile aynı konumda bir db.json dosyası oluşturulur.
-
-3. Bu db.json dosyasında bir obje içerisinde herbir endpoint için birer dizi oluştururuz.
-
-4. npx json-server db.json komutunu çalıştırarak bu api ayağa kaldırılır.
-
-# HTTP Metotları
-
-- Server ve client arasında iletişim kurmak için kullanılan metotlara Http metotları denir.
-
-1. Get:
-   Server'dan veri çekmek için kullanılır.
-2. Post:
-   Server'a veri göndermek için kullanılır.Gönderilecek veri isteğin body kısmına eklenmelidir.
-3. Put:
-   Serverdaki bir veriyi güncellemek için kullanılır.Bu metotda güncellenmek istenen verinin tamamı isteğin body'sine eklenmelidir.
-4. Patch:
-   Serverdaki bir veriyi güncellemek için kullanılır.Sadece güncellenecek kısım isteğin body'sine eklenmelidir.
-5. Delete:
-   Serverdaki bir veriyi silmek için kullanılır
-
-# Axios
-
-- Güncel projelerin çoğunda kullanılan bu kütüphane bizim için api isteklerini kolaylaştırır.
-
-- Gelen isteğin json'dan js nesnesine çevirilmesi işlemini yapar
-
-- Gönderilecek verinin js nesnesinde json'a çevirilmesi işlemini yine axios yapar
-
-- Parametreleri işler
-
-- İsteklere zaman aşımı ekleyebilmemizi sağlar
-
-- Uzun uzun url tanımlamaları yerine baseUrl'ler oluşturarak daha az kod yazmamızı sağlar.
-# Rehber-Project
+# 📧 Contact
+mervegecici8@gmail.com <br/>
+www.linkedin.com/in/mervenur-aydın
