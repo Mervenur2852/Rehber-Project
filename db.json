@@ -1,0 +1,84 @@
+{
+  "contact": [
+    {
+      "id": 3,
+      "name": "Zeynep Demir",
+      "position": "UI/UX Designer",
+      "Company": "DesignHub",
+      "Phone": "+90 544 987 65 43",
+      "email": "zeynep@gmail.com"
+    },
+    {
+      "name": "Mehmet Kaya",
+      "position": "Full Stack Developer",
+      "Company": "udemig",
+      "Phone": "+90 551 456 78 90",
+      "email": "mehmet@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Eren Yıldırım",
+      "position": "Game Developer",
+      "Company": "udemig",
+      "Phone": "+90 566 987 76 54",
+      "email": "eren@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "Gizem Uçar",
+      "position": "Blockchain Developer",
+      "Company": "udemig",
+      "Phone": "+90 532 890 12 34",
+      "email": "gizem@gmail.com",
+      "id": 12
+    },
+    {
+      "id": 13,
+      "name": "Berk Can",
+      "position": "Mobile App Developer",
+      "Company": "AppWorks",
+      "Phone": "+90 555 456 78 91",
+      "email": "berk@gmail.com"
+    },
+    {
+      "id": 14,
+      "name": "Derya Tan",
+      "position": "QA Engineer",
+      "Company": "TestLabs",
+      "Phone": "+90 566 678 90 12",
+      "email": "derya@gmail.com"
+    },
+    {
+      "id": 15,
+      "name": "Hakan Koç",
+      "position": "Product Manager",
+      "Company": "BizSolutions",
+      "Phone": "+90 533 345 67 89",
+      "email": "hakan@gmail.com"
+    },
+    {
+      "name": "Ahmet Yılmazz",
+      "position": "Backend Developer",
+      "company": "TechSoft",
+      "Phone": "+90 532 123 45 67",
+      "email": "ahmet@gmail.com",
+      "id": 17
+    },
+    {
+      "name": "Ahmet Yılmazz",
+      "position": "Backend Developer",
+      "company": "TechSoft",
+      "Phone": "+90 532 123 45 67",
+      "email": "ahmet@gmail.com",
+      "id": 19
+    },
+    {
+      "name": "mervenur",
+      "position": "Backend Developer",
+      "Company": "udemig",
+      "Phone": "+90 577 345 67 89",
+      "email": "mervenur@gmail.com",
+      "id": 20
+    }
+  ]
+}
